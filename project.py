@@ -45,4 +45,3 @@ if __name__ == "__main__":
     time.sleep(1.0)
     gpio.lcd_off()
     gpio.run()
-
